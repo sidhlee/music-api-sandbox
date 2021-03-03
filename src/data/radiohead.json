@@ -1,0 +1,248 @@
+{
+  "created": "2021-03-02T21:33:34.497Z",
+  "count": 10,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 100,
+      "name": "Radiohead",
+      "sort-name": "Radiohead",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": { "ended": null }
+      },
+      "begin-area": {
+        "id": "d840d4b3-8987-4626-928b-398de760cc24",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Abingdon-on-Thames",
+        "sort-name": "Abingdon-on-Thames",
+        "life-span": { "ended": null }
+      },
+      "isnis": ["0000000115475162"],
+      "life-span": { "begin": "1991", "ended": null },
+      "aliases": [
+        {
+          "sort-name": "r/head",
+          "name": "r/head",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "レディオヘッド",
+          "name": "レディオヘッド",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Radio head",
+          "name": "Radio head",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Radiohead & Thom Yorke",
+          "name": "Radiohead & Thom Yorke",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        { "count": 12, "name": "rock" },
+        { "count": 8, "name": "electronic" },
+        { "count": 19, "name": "alternative rock" },
+        { "count": 11, "name": "british" },
+        { "count": -1, "name": "grunge" },
+        { "count": 1, "name": "uk" },
+        { "count": 0, "name": "britannique" },
+        { "count": 0, "name": "britpop" },
+        { "count": 12, "name": "art rock" },
+        { "count": 5, "name": "experimental rock" },
+        { "count": 0, "name": "english" },
+        { "count": 2, "name": "chamber pop" },
+        { "count": 0, "name": "parlophone" },
+        { "count": -1, "name": "england" },
+        { "count": 0, "name": "melancholic" },
+        { "count": -1, "name": "oxford" },
+        { "count": 0, "name": "bootleg" },
+        { "count": 0, "name": "rock and indie" },
+        { "count": -1, "name": "c’était mieux avant" },
+        { "count": 2, "name": "art pop" },
+        { "count": 0, "name": "nude" },
+        { "count": 1, "name": "trap edm" },
+        { "count": -1, "name": "sacred cows" },
+        { "count": 1, "name": "lolicore" }
+      ]
+    },
+    {
+      "id": "e48fc8b3-e8ab-4dd4-9dc8-6b0f06ef07d6",
+      "score": 61,
+      "name": "Radiohead Cover Brasil",
+      "sort-name": "Radiohead Cover Brasil",
+      "area": {
+        "id": "33e0f86c-d709-448d-a484-d55778913af1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "São Paulo",
+        "sort-name": "São Paulo",
+        "life-span": { "ended": null }
+      },
+      "life-span": { "ended": null }
+    },
+    {
+      "id": "827df643-4099-40e3-9ba1-8aebbf351cc1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "name": "Plank",
+      "sort-name": "Plank",
+      "disambiguation": "Radiohead's technician",
+      "life-span": { "ended": null }
+    },
+    {
+      "id": "3093e58d-57ce-4757-9919-bfa603ab9a64",
+      "score": 37,
+      "name": "Paranoid",
+      "sort-name": "Paranoid",
+      "disambiguation": "Radiohead tribute band",
+      "life-span": { "ended": null }
+    },
+    {
+      "id": "a6606aaa-6027-4d6d-8bea-0e8ee816b8f1",
+      "score": 35,
+      "name": "In Rainbows",
+      "sort-name": "In Rainbows",
+      "disambiguation": "reggaeton remixes of Radiohead",
+      "life-span": { "ended": null }
+    },
+    {
+      "id": "2fe2bb15-8b74-4b5b-abb3-167d8c11954f",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 34,
+      "name": "Amnesiac",
+      "sort-name": "Amnesiac",
+      "country": "AR",
+      "area": {
+        "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Argentina",
+        "sort-name": "Argentina",
+        "life-span": { "ended": null }
+      },
+      "begin-area": {
+        "id": "2bd8607d-56fe-4fa1-96e3-3badd6a98588",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Buenos Aires",
+        "sort-name": "Buenos Aires",
+        "life-span": { "ended": null }
+      },
+      "disambiguation": "Argentinian Radiohead tribute band",
+      "life-span": { "ended": null }
+    },
+    {
+      "id": "042914f7-8bfa-4b0d-9fa6-ee1b8feacbd5",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 34,
+      "name": "Amnesiac",
+      "sort-name": "Amnesiac",
+      "area": {
+        "id": "77ec97c2-5377-4ac7-b156-620470e71940",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Santiago",
+        "sort-name": "Santiago",
+        "life-span": { "ended": null }
+      },
+      "begin-area": {
+        "id": "77ec97c2-5377-4ac7-b156-620470e71940",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Santiago",
+        "sort-name": "Santiago",
+        "life-span": { "ended": null }
+      },
+      "disambiguation": "Chilean Radiohead tribute band",
+      "life-span": { "begin": "2006-01-01", "ended": null }
+    },
+    {
+      "id": "b7ab4150-9830-4951-87ed-250ab2cea021",
+      "score": 32,
+      "name": "Secret Society",
+      "sort-name": "Secret Society",
+      "disambiguation": "has covered Radiohead’s Planet Telex",
+      "life-span": { "ended": null }
+    },
+    {
+      "id": "9ae93352-6da7-4efb-abb2-e43ef51acb25",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 30,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "EOB",
+      "sort-name": "EOB",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": { "ended": null }
+      },
+      "begin-area": {
+        "id": "33587495-c775-4483-b819-931c4cf438cd",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Oxford",
+        "sort-name": "Oxford",
+        "life-span": { "ended": null }
+      },
+      "disambiguation": "solo project of Radiohead guitarist Ed O'Brien",
+      "isnis": ["000000007841284X"],
+      "life-span": { "begin": "1968-04-15", "ended": null }
+    },
+    {
+      "id": "71912418-5192-4a41-b250-2ef46c34175f",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 28,
+      "name": "There, There",
+      "sort-name": "There, There",
+      "area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": { "ended": null }
+      },
+      "disambiguation": "Radiohead tribute band from New York, NY, USA",
+      "life-span": { "ended": null }
+    }
+  ]
+}

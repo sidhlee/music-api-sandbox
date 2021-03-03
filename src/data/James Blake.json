@@ -1,0 +1,457 @@
+{
+  "created": "2021-03-03T00:10:53.982Z",
+  "count": 8927,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "8dc08b1f-e393-4f85-a5dd-300f7693a8b8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "James Blake",
+      "sort-name": "Blake, James",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": { "ended": null }
+      },
+      "begin-area": {
+        "id": "11518382-04c9-473d-98d6-2c0f4b2b9bd9",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Enfield",
+        "sort-name": "Enfield",
+        "life-span": { "ended": null }
+      },
+      "ipis": ["00580359730"],
+      "isnis": ["000000012036415X"],
+      "life-span": { "begin": "1988-09-26", "ended": null },
+      "aliases": [
+        {
+          "sort-name": "Harmonimix",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Harmonimix",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Litherland, James Blake",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "James Blake Litherland",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        { "count": 1, "name": "post-dubstep" },
+        { "count": 2, "name": "minimal" },
+        { "count": 1, "name": "singer-songwriter" },
+        { "count": 1, "name": "soul" },
+        { "count": 0, "name": "dubstep" },
+        { "count": 1, "name": "electronic" },
+        { "count": 1, "name": "experimental" }
+      ]
+    },
+    {
+      "id": "c8302294-5e9c-4081-8843-ed018e9ebfe2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 78,
+      "name": "Jimmy Blake",
+      "sort-name": "Blake, Jimmy",
+      "disambiguation": "jazz trumpeter",
+      "life-span": { "ended": null },
+      "aliases": [
+        {
+          "sort-name": "Jim Blake",
+          "name": "Jim Blake",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "James Blake",
+          "name": "James Blake",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "cec5789a-ae48-48ff-8914-1001f6e33bb9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Blake",
+      "sort-name": "Blake",
+      "gender": "female",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": { "ended": null }
+      },
+      "begin-area": {
+        "id": "14556f8d-b3db-417d-b59a-152d1be99a1f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Queenstown",
+        "sort-name": "Queenstown",
+        "life-span": { "ended": null }
+      },
+      "disambiguation": "female vocalist from New Zealand; Sarah Foley",
+      "life-span": { "ended": null },
+      "aliases": [
+        {
+          "sort-name": "Foley, Sarah",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Sarah Foley",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Blake",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Blake",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "7629c992-0700-4c86-aa78-b7840d041eb6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "James W. Blake",
+      "sort-name": "Blake, James W.",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": { "ended": null }
+      },
+      "life-span": { "begin": "1862-09-23", "end": "1935-05-24", "ended": true }
+    },
+    {
+      "id": "29f8110f-cd46-45ed-a302-cd9eb5d7a247",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "James Vila Blake",
+      "sort-name": "Blake, James Vila",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": { "ended": null }
+      },
+      "begin-area": {
+        "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Brooklyn",
+        "sort-name": "Brooklyn",
+        "life-span": { "ended": null }
+      },
+      "end-area": {
+        "id": "29a709d8-0320-493e-8d0c-f2c386662b7f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Chicago",
+        "sort-name": "Chicago",
+        "life-span": { "ended": null }
+      },
+      "isnis": ["0000000119327968"],
+      "life-span": { "begin": "1842-01-21", "end": "1925-04-28", "ended": true }
+    },
+    {
+      "id": "8cc11637-1505-4ccd-81c8-9bcedf04fc5c",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 45,
+      "name": "Blake",
+      "sort-name": "Blake",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": { "ended": null }
+      },
+      "disambiguation": "classical crossover vocal group",
+      "life-span": { "begin": "2007", "ended": null },
+      "tags": [{ "count": 1, "name": "classical" }]
+    },
+    {
+      "id": "437af2e8-28cf-438a-b6dd-7809071b8694",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Blind Blake",
+      "sort-name": "Blake, Blind",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": { "ended": null }
+      },
+      "begin-area": {
+        "id": "3b1f4237-f431-4236-9ccb-8adb1745256c",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Newport News",
+        "sort-name": "Newport News",
+        "life-span": { "ended": null }
+      },
+      "end-area": {
+        "id": "4dc3fa97-cf9b-43f0-bec9-fcc52d6215d5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Milwaukee",
+        "sort-name": "Milwaukee",
+        "life-span": { "ended": null }
+      },
+      "disambiguation": "1920 blues",
+      "isnis": ["0000000079866544"],
+      "life-span": { "begin": "1896", "end": "1934-12-01", "ended": true },
+      "aliases": [
+        {
+          "sort-name": "Billy James",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Billy James",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Arthur “Blind” Blake",
+          "name": "Arthur “Blind” Blake",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Arthur Phelps",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Arthur Phelps",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Arthur Blake",
+          "name": "Arthur Blake",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gorgeous Weed",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Gorgeous Weed",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Blind Arthur Blake",
+          "name": "Blind Arthur Blake",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Blind George Martin",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Blind George Martin",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Blind Blake",
+          "name": "Blind Blake",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "“Blind” Blake",
+          "name": "“Blind” Blake",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Blake, Arthur",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Arthur Blake",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        { "count": 1, "name": "country blues" },
+        { "count": 0, "name": "american" },
+        { "count": 1, "name": "piedmont blues" },
+        { "count": 1, "name": "delta blues" },
+        { "count": 1, "name": "ragtime" },
+        { "count": 1, "name": "chicago blues" },
+        { "count": 0, "name": "death by streetcar" },
+        { "count": 1, "name": "rock" }
+      ]
+    },
+    {
+      "id": "21f03444-20ff-4959-aecd-5839ff4aad8c",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 44,
+      "name": "Blake",
+      "sort-name": "Blake",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": { "ended": null }
+      },
+      "disambiguation": "Finnish hard rock/metal band",
+      "life-span": { "begin": "2001", "ended": null },
+      "tags": [
+        { "count": 1, "name": "rock" },
+        { "count": 2, "name": "heavy metal" },
+        { "count": 1, "name": "hard rock" },
+        { "count": 1, "name": "stoner rock" }
+      ]
+    },
+    {
+      "id": "a40b969e-4329-494e-aacb-14370f75889d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Blake Neely",
+      "sort-name": "Neely, Blake",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": { "ended": null }
+      },
+      "begin-area": {
+        "id": "cc793f54-aed6-4637-9071-cea2b933464a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": { "ended": null }
+      },
+      "isnis": ["0000000115694381"],
+      "life-span": { "begin": "1969-04-28", "ended": null },
+      "aliases": [
+        {
+          "sort-name": "Blake \"Blackstone\" Neely",
+          "name": "Blake \"Blackstone\" Neely",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "fc346e1e-6845-4841-94f9-7514da8c70fb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Blake",
+      "sort-name": "Blake",
+      "gender": "male",
+      "country": "IS",
+      "area": {
+        "id": "48802a32-075a-3805-a183-277c66047693",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Iceland",
+        "sort-name": "Iceland",
+        "life-span": { "ended": null }
+      },
+      "disambiguation": "Icelandic techno/dance DJ",
+      "life-span": { "ended": null }
+    }
+  ]
+}

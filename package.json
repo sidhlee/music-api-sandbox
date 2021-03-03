@@ -15,6 +15,7 @@
     "start": "env-cmd -f src/config/dev.env nodemon"
   },
   "dependencies": {
-    "got": "^11.8.2"
+    "got": "^11.8.2",
+    "musicbrainz-api": "^0.5.2"
   }
 }
